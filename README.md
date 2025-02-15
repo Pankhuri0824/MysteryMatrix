@@ -7,7 +7,7 @@ The Mystery Matrix VR escape room offers a thrilling and immersive experience th
 
 Set in the 1900s, the plot revolves around a dangerous serial killer who has locked our main character and a friend inside their lair. We must solve puzzles and unlock ourselves before the killer comes back . The sense of urgency enhances our experience of the game and spontaneous problem solving skills. Every time we solve a clue ,we will be lead to the next until we’re done. 
 
-**How to run the project : ** As the project is using Metaquest and its various dependencies, it **will not** run without it. To get a general feel of the simulation please refer to the attached video. 
+**How to run the project : ** As the project is using Metaquest and its various dependencies, it **will not** run without it. To get a general feel of the simulation please refer to the attached video. Codebase can be found [here](https://drive.google.com/file/d/1Q1EOF4wa-PH5Ie5KnU-8xon950bq2s6C/view?usp=sharing)
 
 ## Tech Stack
 Tech stack used was as follows :
